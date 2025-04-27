@@ -57,7 +57,7 @@ Home Cloud is a lightweight, feature-rich cloud storage solution built with Flas
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/home-cloud.git
+   git clone https://github.com/Diha/home-cloud.git
    cd home-cloud
 
 2. Install Python Files
